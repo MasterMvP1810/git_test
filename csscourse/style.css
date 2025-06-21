@@ -1,0 +1,14 @@
+h1{
+    color: rgb(54, 5, 113);
+}
+.para{
+    color: rgb(216, 82, 15);
+    font-size: 20px;
+}
+#btn{
+    color: aliceblue;
+    background-color: rgb(242, 25, 25);
+}
+#btn:hover{
+    background-color: black;
+}
