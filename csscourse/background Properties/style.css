@@ -1,0 +1,8 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    background-image: url("https://images.pexels.com/photos/11750205/pexels-photo-11750205.jpeg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
